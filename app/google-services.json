@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "66599113231",
+    "firebase_url": "https://dorm-home.firebaseio.com",
+    "project_id": "dorm-home",
+    "storage_bucket": "dorm-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66599113231:android:5fd18d6bad36264e",
+        "android_client_info": {
+          "package_name": "co.keendesign.dormhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66599113231-cio511r469e9mocrfm65ae6gijr2g98k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.keendesign.dormhome",
+            "certificate_hash": "2FB3A0FFCB8CC850B75DE4A49EE2EEE627C91D6A"
+          }
+        },
+        {
+          "client_id": "66599113231-1pnhvhvhe9iauh0qlvcf0rgujnnbbkm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcAlh6F2Edu-VjbDejbTR2qnodfhqHAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66599113231-1pnhvhvhe9iauh0qlvcf0rgujnnbbkm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
